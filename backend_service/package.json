@@ -1,0 +1,22 @@
+{
+  "name": "ipci_iot_poc",
+  "version": "0.0.1",
+  "description": "DAO IPCI IoT module data reciever",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airalab/ipci_iot_poc.git"
+  },
+  "author": "Alisher A. Khassanov",
+  "license": "BSD3",
+  "bugs": {
+    "url": "https://github.com/airalab/ipci_iot_poc/issues"
+  },
+  "homepage": "https://github.com/airalab/ipci_iot_poc",
+  "dependencies": {
+    "@azure/event-hubs": "^1.0.7"
+  }
+}
