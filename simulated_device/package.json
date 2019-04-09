@@ -1,0 +1,23 @@
+{
+  "name": "simulated_device",
+  "version": "0.0.1",
+  "description": "Simulated device application in the IoT Hub quickstart device-to-cloud sample",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure-Samples/azure-iot-samples-node.git"
+  },
+  "author": "Microsoft Corporation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/airalab/ipci_iot_poc/issues"
+  },
+  "homepage": "https://github.com/airalab/ioci_iot_poc#readme",
+  "dependencies": {
+    "azure-iot-device": "^1.7.1",
+    "azure-iot-device-mqtt": "^1.7.1"
+  }
+}
